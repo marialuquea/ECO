@@ -10,6 +10,6 @@
 <mapEntry key="[run]" value="org.eclipse.jdt.launching.localJavaApplication"/>
 </mapAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tspsolver.SolveTSP"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-v -H -mS -f berlin52.tsp -i10000"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-v -SA -mS -f berlin52.tsp -i10000 -s 500.0 -e 0.0 -r 0.99"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SearchAlgorithms"/>
 </launchConfiguration>
